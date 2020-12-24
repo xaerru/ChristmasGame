@@ -19,7 +19,7 @@ background_music.set_volume(0.8)
 background_music.play()
 
 """ TITLE """
-pg.display.set_caption("I have no idea")
+pg.display.set_caption("ChristmasGame")
 
 """ CREATING BACKGROUND IMAGE """
 background = pg.image.load('bg.jpg')
